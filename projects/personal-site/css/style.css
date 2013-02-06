@@ -1,0 +1,53 @@
+h1 {
+	 text-align:center;
+	 font-family: 'Arvo', Georgia, Times, serif;}
+h2 {
+	 text-align:center;
+	 font-family: 'Arvo', Georgia, Times, serif;}
+p {
+	 text-align:center;
+	 font-family: 'PT Sans', Helvetica, Arial, sans-serif;}
+p2 {
+	 margin-left: 100px;
+	 font-family: 'PT Sans', Helvetica, Arial, sans-serif;}
+ul.center{
+		display: block;
+    margin-left: auto;
+    margin-right: auto;}
+ol.center{
+		display: block;
+    margin-left: auto;
+    margin-right: auto;}
+img.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;}
+img.left1 {
+		float:left;
+		margin-right:10px;}
+img.left2 {
+		float:left;
+		margin-right:300px;}
+img.right1{
+		float: right;
+		margin-left: 50px;}	
+img.right2{
+		float: right;
+		margin-left: 300px;}
+.nav{
+    border:1px solid #ccc;
+    border-width:1px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+		}
+.nav li{
+    display:inline;
+		}
+.nav a{
+    display:inline-block;
+    padding:10px;
+		}
+body{
+background-color:#F0F0F0;}

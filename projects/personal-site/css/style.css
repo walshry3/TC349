@@ -1,53 +1,79 @@
+body{
+		 background:#F0F0F0;
+		 width: 1000px;
+		 margin: 0 auto;
+}
 h1 {
+	 background:#aaa;
+	 padding: 10px; 
 	 text-align:center;
-	 font-family: 'Arvo', Georgia, Times, serif;}
+	 font-family: 'Arvo', Georgia, Times, serif;
+}
 h2 {
+	 margin-right: auto;
+	 margin-left: auto;
+	 padding: 10px;
+	 background:#aaa;
+	 width: 500px;
 	 text-align:center;
-	 font-family: 'Arvo', Georgia, Times, serif;}
+	 font-family: 'Arvo', Georgia, Times, serif;
+}
 p {
 	 text-align:center;
-	 font-family: 'PT Sans', Helvetica, Arial, sans-serif;}
+	 font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+}
 p2 {
 	 margin-left: 100px;
-	 font-family: 'PT Sans', Helvetica, Arial, sans-serif;}
+	 font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+}
 ul.center{
 		display: block;
     margin-left: auto;
-    margin-right: auto;}
+    margin-right: auto;
+}
 ol.center{
 		display: block;
     margin-left: auto;
-    margin-right: auto;}
+    margin-right: auto;
+}
 img.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;}
+					 border: 10px solid #000000;
+    			 display: block;
+   				 margin-left: auto;
+    			 margin-right: auto;
+}
 img.left1 {
-		float:left;
-		margin-right:10px;}
+					border: 10px solid #000000;
+					float:left;
+					margin-right:50px;
+}
 img.left2 {
-		float:left;
-		margin-right:300px;}
+					border: 10px solid #000000;
+					float:left;
+					margin-right:50px;
+}
 img.right1{
-		float: right;
-		margin-left: 50px;}	
+					 border: 10px solid #000000;
+					 float: right;
+					 margin-left: 50px;
+}	
 img.right2{
-		float: right;
-		margin-left: 300px;}
+					 border: 10px solid #000000;
+					 float: right;
+					 margin-left: 50px;
+}	
 .nav{
-    border:1px solid #ccc;
-    border-width:1px 0;
+    border:5px solid #000000;
+    border-width:5px 0;
     list-style:none;
     margin:0;
     padding:0;
     text-align:center;
-		}
+}
 .nav li{
     display:inline;
-		}
+}
 .nav a{
     display:inline-block;
     padding:10px;
-		}
-body{
-background-color:#F0F0F0;}
+}

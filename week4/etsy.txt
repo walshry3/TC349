@@ -1,0 +1,9 @@
+	Etsy.com is a very successful commercial website. The site concentrates on handmade products.
+I believe that some of the success is due to the layout of the site. The products are featured in vivid
+pictures. The photos are well sized such that the products details are easily discernable. Also, the fact
+that the prices are listed on the pictures is very useful for the consumer. 
+	I noticed that the website is given a fixed position much like our lab this week. However, they do
+have a mobile version of the site so that it still looks good on a cellular device. After this week's lab I have
+grown to appreciate sites that are centered on the page like this one. Also, it is very aesthetically pleasing 
+due to the large margins on the sides. Lastly, the borders and use of padding makes the block elements fit together
+nicely. I also found it interesting that the site encouraged people to help add to the site and contribute content.   

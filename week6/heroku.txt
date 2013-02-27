@@ -1,0 +1,21 @@
+	Heroku is a website that uses cloud technology to deploy and mannage online applications.
+The site is very user friendly and incredibly aesthetically pleasing. The top bar has links to all 
+of the important pages of the site making it easy to navigate. Furthermore, the contact page offers 
+an easy way to have questions answered by featuring topic dependent contacts. This way consumers are 
+directed to the right people immediately.
+	Another brilliant aspect of the site is the interactive diagram explaining how the site works. 
+The diagram clearly demonstrates the relationship between user, data and the site making it much easier
+to understand. The site also includes a pricing tool, which allows users to input the specs of their
+application to receive a personal quote. Overall, this site was built with the consumer in mind and 
+can definitely be used as a competitive advantage. 
+
+	
+
+	The layout that I chose for my personal site varied by page. The index and career pages used the 
+double technique while the academics and hobbies pages used the gallery technique. I decided upon these 
+methods for two reasons. First, I had been using tables to keep things centered and spaced, but using articles
+is a more sustainable method. Second, on the two pages with the double technique I clearly had one main item,
+with a somewhat less important side item.
+	I added a footer to every page, as I thought it would be useful to have my contact information available
+at any time. Also, I added a twitter feed widget to my index page. Unfortunately it is inoperational at this time, but 
+it will be fully functional once my site has a host.   

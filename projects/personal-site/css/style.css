@@ -1,7 +1,62 @@
 body{
 		 background:#F0F0F0;
-		 width: 1000px;
-		 margin: 0 auto;
+}
+
+.wrap{
+			margin: 0 auto;
+			width: 1000px;
+}
+
+.container{
+					 margin: 0 5%;
+}
+
+header{
+			 width: 1000px;
+		 	 margin: 0 auto;
+}
+
+.nav{
+    border:5px solid #000000;
+    border-width:5px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.nav li{
+    display:inline;
+		padding: 50px;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+}
+			 
+section.double{
+				width: 650px;
+				margin-left: 25px;
+				float: right;
+}
+
+section.gallery{
+				width: 1000px;
+				margin: 0 auto;
+}
+
+article{
+				width: 320px;
+				margin: 6.5px;
+				float: left;				
+}
+				
+aside{
+			width: 250px;
+		  float: left;
+}
+
+footer{
+			 clear: both;
 }
 h1 {
 	 background:#aaa;
@@ -9,6 +64,7 @@ h1 {
 	 text-align:center;
 	 font-family: 'Arvo', Georgia, Times, serif;
 }
+
 h2 {
 	 margin-right: auto;
 	 margin-left: auto;
@@ -18,12 +74,22 @@ h2 {
 	 text-align:center;
 	 font-family: 'Arvo', Georgia, Times, serif;
 }
-p {
+
+h3 {
+	 margin-right: auto;
+	 margin-left: auto;
+	 padding: 10px;
+	 background:#aaa;
+	 width: 200px;
+	 text-align:center;
+	 font-family: 'Arvo', Georgia, Times, serif;
+}
+p.C {
 	 text-align:center;
 	 font-family: 'PT Sans', Helvetica, Arial, sans-serif;
 }
-p2 {
-	 margin-left: 100px;
+p.I {
+	 text-indent: 30px;
 	 font-family: 'PT Sans', Helvetica, Arial, sans-serif;
 }
 ul.center{
@@ -50,7 +116,7 @@ img.left1 {
 img.left2 {
 					border: 10px solid #000000;
 					float:left;
-					margin-right:50px;
+					margin-right: 50px;
 }
 img.right1{
 					 border: 10px solid #000000;
@@ -60,20 +126,12 @@ img.right1{
 img.right2{
 					 border: 10px solid #000000;
 					 float: right;
-					 margin-left: 50px;
+					 margin: 10px;
 }	
-.nav{
-    border:5px solid #000000;
-    border-width:5px 0;
-    list-style:none;
-    margin:0;
-    padding:0;
-    text-align:center;
+
+img.right3{
+					 border: 10px solid #000000;
+					 float: right;
+					 margin: auto;
 }
-.nav li{
-    display:inline;
-}
-.nav a{
-    display:inline-block;
-    padding:10px;
-}
+

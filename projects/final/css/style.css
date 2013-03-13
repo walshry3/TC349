@@ -1,0 +1,150 @@
+body{
+		 background:#F0F0F0;
+}
+
+.wrap{
+			margin: 0 auto;
+			width: 1000px;
+}
+
+.container{
+					 margin: 0 5%;
+}
+
+header{
+			 width: 1000px;
+		 	 margin: 0 auto;
+}
+
+.nav{
+    border:5px solid #000000;
+    border-width:5px 0;
+    list-style:none;
+    margin:0;
+    padding:0;
+    text-align:center;
+}
+.nav li{
+    display:inline;
+		padding: 50px;
+}
+.nav a{
+		text-decoration: none;
+		color: black;
+    display:inline-block;
+    padding:10px;
+}
+			 
+section.double{
+				width: 650px;
+				margin-left: 25px;
+				float: right;
+}
+
+section.gallery{
+				width: 1000px;
+				margin: 0 auto;
+}
+
+article.bor{
+				width: 310px;
+				margin: 6.5px;
+				float: left;
+				border: 5px solid #000000				
+}
+				
+aside{
+			width: 250px;
+		  float: left;
+}
+
+footer{
+			 clear: both;
+}
+h1 {
+	 background:#aaa;
+	 padding: 10px; 
+	 text-align:center;
+	 font-family: 'Arvo', Georgia, Times, serif;
+}
+
+h2 {
+	 margin-right: auto;
+	 margin-left: auto;
+	 padding: 10px;
+	 background:#aaa;
+	 width: 500px;
+	 text-align:center;
+	 font-family: 'Arvo', Georgia, Times, serif;
+}
+
+h3 {
+	 margin-right: auto;
+	 margin-left: auto;
+	 padding: 10px;
+	 background:#aaa;
+	 width: 200px;
+	 text-align:center;
+	 font-family: 'Arvo', Georgia, Times, serif;
+}
+p.C {
+	 text-align:center;
+	 font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+}
+p.I {
+	 text-indent: 30px;
+	 font-family: 'PT Sans', Helvetica, Arial, sans-serif;
+}
+ul.center{
+		display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ol.center{
+		display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+img.center {
+					 border: 5px solid #000000;
+    			 display: block;
+   				 margin-left: auto;
+    			 margin-right: auto;
+}
+img.left1 {
+					border: 10px solid #000000;
+					float:left;
+					margin-right:50px;
+}
+img.left2 {
+					border: 10px solid #000000;
+					float:left;
+					margin-right: 50px;
+}
+img.right1{
+					 border: 10px solid #000000;
+					 float: right;
+					 margin-left: 50px;
+}	
+img.right2{
+					 border: 10px solid #000000;
+					 float: right;
+					 margin: 10px;
+}	
+
+img.right3{
+					 border: 10px solid #000000;
+					 float: right;
+					 margin: auto;
+}
+
+a{
+	  text-decoration: none;
+		color: black;
+}
+
+article.nob{
+				width: 310px;
+				margin: 6.5px;
+				float: left;
+}

@@ -1,0 +1,6 @@
+	Vimeo is a website used to upload and share videos with other people. The site is aesthetically pleasing
+due to the use of vibrant colors and the varying fonts. The animation on the front page is also a nice touch. The top bar
+includes all of the useful links necessary to explore the site. Specifically, the secondary menu that is produced after
+hovering over the top links makes navigation even easier.
+	One of the best features of this site is the way it introduces its brand to new users. Included on the home page 
+are various facts and links that describe why Vimeo is a great tool. Furthermore, it highlights what features make Vimeo better than competitors. Lastly, the overall decor of the website seems to be aimed at younger generations, which I believe to be its intended audience.    

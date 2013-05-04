@@ -6160,3 +6160,8 @@ a.badge:focus {
 .custom {
     width: 100px !important;
 }
+
+.ind{
+		 text-indent: 50px;
+}
+		 
